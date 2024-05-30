@@ -1,0 +1,13 @@
+{
+    "capabilities": {
+      "platformName": "Android",
+      "deviceName": "emulator-5554",
+      "app": "/Users/olhashcherbina/Downloads/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk",
+      "automationName": "UiAutomator2",
+      "appActivity" : "ActivitySplash"
+    },
+    "appiumServer": {
+      "url": "http://127.0.0.1:4723"
+    }
+  }
+  
